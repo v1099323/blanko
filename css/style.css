@@ -521,6 +521,15 @@ h6 {
   background-color: #000;
 }
 
+.druk__inner {
+  margin: 0 auto;
+  max-width: 36.25rem;
+}
+
+.druk__slide {
+  z-index: 3;
+}
+
 .druk__bullets {
   padding-top: 1.875rem;
   display: -webkit-box;
